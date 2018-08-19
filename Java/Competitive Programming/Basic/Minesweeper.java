@@ -88,7 +88,7 @@ public class Minesweeper {
     }
 
     /**
-     * A Breadth First Search algorithm to calculate the adjacent bomb values
+     * A variation of the Breadth First Search algorithm to calculate the adjacent bomb values
      * @param i The limit for the rows in the field
      * @param j The limit for the columns in the field
      * @param field The input field of *'s and .'s
